@@ -26,4 +26,3 @@ Developer
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zduvv&theme=tokyonight" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=zduvv&color=blue&style=flat-square)
