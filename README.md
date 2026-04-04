@@ -1,6 +1,7 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
 Developer
 -------------------------
+* 🖥️  I'm based in Poland
 * 💬  Discord: [zduv](https://discord.com/users/1105952984036278402)
 * 📸  Instagram: [zduvv](https://instagram.com/zduvv)
 
@@ -22,6 +23,7 @@ Developer
 
 ### Stats
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zduvv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zduvv&theme=tokyonight" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=zduvv&color=blue&style=flat-square)
