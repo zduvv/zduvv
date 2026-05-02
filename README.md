@@ -1,5 +1,6 @@
 ### Hi! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
 -------------------------
+### Social media
 * 💬  Discord: [zduv](https://discord.com/users/1105952984036278402)
 * 📸  Instagram: [zduvv](https://instagram.com/zduvv)
 
