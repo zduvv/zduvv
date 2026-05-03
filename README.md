@@ -15,8 +15,8 @@
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></td>
   </tr>
 </table>
--------------------------
 
+-------------------------
 ### Stats
 <p align="left">
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zduvv&theme=github_dark" />
