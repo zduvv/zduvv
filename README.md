@@ -15,4 +15,3 @@
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></td>
   </tr>
 </table>
--------------------------
